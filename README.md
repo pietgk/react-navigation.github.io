@@ -2,7 +2,7 @@
 
 ## Run it locally
 
-1. Clone the repository
+1. Clone the repository.
 2. `cd` into the `website` directory.
 3. Run `yarn` (or `npm install`)
 4. `yarn start`
